@@ -1,0 +1,7 @@
+How SRikanth Order Pizza
+
+Go to to Dominos site
+Select Pizza
+
+Select payment
+Make Payment
